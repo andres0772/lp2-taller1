@@ -29,12 +29,13 @@ git clone https://github.com/UR-CC/lp2-taller1.git
 ```bash
 cd lp2-taller1
 python -m venv venv
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass #se pone este codigo antes del venv
 venv/bin/activate
 ```
 
 3. Instalar librerías y dependencias
 ```bash
-pip install -r requirements
+pip install -r requirements.txt #se pone .txt para que lo reconosca windows 
 ```
     
 ## Ejecución
