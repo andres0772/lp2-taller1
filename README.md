@@ -7,7 +7,7 @@
 
 ## Autores
 
-- [@estudiante1](https://www.github.com/estudiante1)
+- [andres esteban vasquez peña](https://www.github.com/estudiante1)
 - [@estudiante2](https://www.github.com/estudiante2)
 
 ## Descripción del Proyecto
