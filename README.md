@@ -7,7 +7,7 @@
 
 ## Autores
 
-- [andres esteban vasquez peña](https://www.github.com/estudiante1)
+- [andres esteban vasquez peña](https://github.com/andres0772/lp2-taller1.git)
 - [@estudiante2](https://www.github.com/estudiante2)
 
 ## Descripción del Proyecto
